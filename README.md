@@ -1,3 +1,3 @@
 # TareaGrupal
-Joseph Ramos, Ye Chen, Suren Hashemi Alan
+Joseph Ramos, Ye Jiachen, Suren Hashemi Alam
 https://github.com/NoseQuePonerUAX/Tarea.git
