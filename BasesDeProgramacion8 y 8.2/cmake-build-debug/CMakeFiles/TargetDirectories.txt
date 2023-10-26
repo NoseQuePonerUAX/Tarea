@@ -1,3 +1,0 @@
-C:/Users/jiach/CLionProjects/BasesDeProgramacion8/cmake-build-debug/CMakeFiles/BasesDeProgramacion8.dir
-C:/Users/jiach/CLionProjects/BasesDeProgramacion8/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jiach/CLionProjects/BasesDeProgramacion8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
